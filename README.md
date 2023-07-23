@@ -9,7 +9,7 @@ Hello! My name is Dima, and I'm 18 years old. I'm passionate about web developme
 ---
 
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SigenBusiness-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sigenbusiness) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sigenbusiness@gmail.com)
+:mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-SigenBusiness-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sigenbusiness) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sigenbusiness@gmail.com)
 
 
 ---
